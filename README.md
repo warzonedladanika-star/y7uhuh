@@ -45,7 +45,7 @@ Izdevums parādīsies budžeta pārskatā un ietekmēs kopējo bilanci
 
 Autors
 
-Vārds Uzvārds
+Ņikita Kolesnikovs
 
 Licence
 
